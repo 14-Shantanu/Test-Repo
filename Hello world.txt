@@ -1,6 +1,8 @@
 Public class Firstclass{
     public sstatic void main(String[] args){
-          systrm.out.print("Hello World");
+          system.out.print("This is my first program in Java: ");
+          system.out.print("Hello World");
+          
     }
 
 }
