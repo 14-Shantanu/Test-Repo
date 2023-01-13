@@ -1,0 +1,6 @@
+Public class Firstclass{
+    public sstatic void main(String[] args){
+          systrm.out.print("Hello World");
+    }
+
+}
